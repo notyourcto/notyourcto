@@ -1,16 +1,50 @@
-## Hi there 👋
+# hey, i'm yusuf 👋
 
-<!--
-**notyourcto/notyourcto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently trying to get into university.
 
-Here are some ideas to get you started:
+exactly **9 months ago** i decided to take a drop year before joining uni and spend that time learning actual skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+since then i've been working on a couple of small projects — u can find them in the **repositories section**. repos are **public on purpose**, because this is basically a log of what im learning.
+---
+
+## lnaguages i have expored so far.
+- c
+- javascript
+- python
+---
+
+## lately
+
+for the last few days i've been getting into **neovim** and it's been surprisingly fun to use.
+
+so going forward i expect myself to get pretty comfortable with it and build my own config.
+
+things i will probably be adding soon:
+
+- telescope  
+- treesitter  
+- lsp
+
+you might see my **nvim config repo** appear here soon.
+
+---
+
+## what i'm planning next
+
+i want to spend the next phase working closer to the system with **C**.
+
+that means building things like:
+
+- a simple shell (bash-like terminal)
+- small compilers / transpilers
+- tools that explain how the abstractions we use actually work
+
+basically trying to understand **what's happening underneath the software we use everyday.**
+
+---
+
+## environment
+ os -- arch btw..
+ desktop -- kde plasma
+ terminal -- konsole default 1 having thoughts to switch on kitty
+ code editor i use -- neovim btw..
