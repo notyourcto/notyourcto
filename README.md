@@ -1,6 +1,6 @@
 # hey, i'm yusuf 👋
 
-currently trying to get into university.
+currently trying to get into uni.
 
 exactly **9 months ago** i decided to take a drop year before joining uni and spend that time learning actual skills.
 
@@ -8,7 +8,7 @@ since then i have been working on a couple of small projects - u can find them i
 
 ---
 
-## lnaguages i have expored so far.
+## lnaguages i have explored so far.
 - c
 - javascript
 - python
@@ -49,3 +49,7 @@ basically trying to understand **what's happening underneath the software we use
 - desktop -- kde plasma
 - terminal -- konsole default 1 having thoughts to switch on kitty
 - code editor i use -- neovim btw..
+
+---
+
+last update — 2026-03-05
