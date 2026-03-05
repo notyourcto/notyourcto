@@ -8,7 +8,7 @@ since then i have been working on a couple of small projects - u can find them i
 
 ---
 
-## lnaguages i have explored so far.
+## languages i have explored so far.
 - c
 - javascript
 - python
