@@ -4,7 +4,8 @@ currently trying to get into university.
 
 exactly **9 months ago** i decided to take a drop year before joining uni and spend that time learning actual skills.
 
-since then i've been working on a couple of small projects — u can find them in the **repositories section**. repos are **public on purpose**, because this is basically a log of what im learning.
+since then i have been working on a couple of small projects - u can find them in the repo section.
+
 ---
 
 ## lnaguages i have expored so far.
@@ -15,7 +16,7 @@ since then i've been working on a couple of small projects — u can find them i
 
 ## lately
 
-for the last few days i've been getting into **neovim** and it's been surprisingly fun to use.
+for the last few days i have been getting into **neovim** and its been surprisingly fun to use.
 
 so going forward i expect myself to get pretty comfortable with it and build my own config.
 
@@ -25,11 +26,11 @@ things i will probably be adding soon:
 - treesitter  
 - lsp
 
-you might see my **nvim config repo** appear here soon.
+you might see my **nvim config repo** appear here soon.  
 
 ---
 
-## what i'm planning next
+## what im planning next
 
 i want to spend the next phase working closer to the system with **C**.
 
@@ -44,7 +45,7 @@ basically trying to understand **what's happening underneath the software we use
 ---
 
 ## environment
- os -- arch btw..
- desktop -- kde plasma
- terminal -- konsole default 1 having thoughts to switch on kitty
- code editor i use -- neovim btw..
+- os -- arch btw..
+- desktop -- kde plasma
+- terminal -- konsole default 1 having thoughts to switch on kitty
+- code editor i use -- neovim btw..
