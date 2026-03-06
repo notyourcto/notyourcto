@@ -1,7 +1,5 @@
 # hey, i'm yusuf 👋
 
-currently trying to get into uni.
-
 exactly **9 months ago** i decided to take a drop year before joining uni and spend that time learning actual skills.
 
 since then i have been working on a couple of small projects - u can find them in the repo section.
@@ -52,4 +50,4 @@ basically trying to understand **what's happening underneath the software we use
 
 ---
 
-last update — 2026-03-05
+last update — 2026-03-06
