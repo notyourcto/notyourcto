@@ -12,25 +12,10 @@ since then i have been working on a couple of small projects - u can find them i
 - python
 ---
 
+
 ## lately
 
-for the last few days i have been getting into **neovim** and its been surprisingly fun to use.
-
-so going forward i expect myself to get pretty comfortable with it and build my own config.
-
-things i will probably be adding soon:
-
-- telescope  
-- treesitter  
-- lsp
-
-you might see my **nvim config repo** appear here soon.  
-
----
-
-## what im planning next
-
-i want to spend the next phase working closer to the system with **C**.
+i want to spend time working closer to the system with **C**.
 
 that means building things like:
 
@@ -45,9 +30,9 @@ basically trying to understand **what's happening underneath the software we use
 ## environment
 - os -- arch btw..
 - desktop -- kde plasma
-- terminal -- konsole default 1 having thoughts to switch on kitty
+- terminal -- konsole
 - code editor i use -- neovim btw..
 
 ---
 
-last update — 2026-03-06
+last update — 2026-03-14
