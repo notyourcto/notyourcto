@@ -31,7 +31,7 @@ basically trying to understand **what's happening underneath the software we use
 - os -- arch btw..
 - desktop -- kde plasma
 - terminal -- konsole
-- code editor i use -- neovim btw..
+- code editor i use -- neovim btw.. [config here] (https://github.com/notyourcto/minimal-nvim-config)
 
 ---
 
